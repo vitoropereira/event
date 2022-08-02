@@ -1,5 +1,5 @@
 import { Header } from "../components/Header";
-import { Sidebar } from "../components/Sidbar";
+import { Sidebar } from "../components/Sidebar";
 import { Video } from "../components/Video";
 
 export function Event() {
